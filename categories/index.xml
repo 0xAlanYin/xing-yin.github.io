@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AlanYin</title>
-    <link>http://localhost:56587/categories/</link>
+    <link>https://xing-yin.github.io/categories/</link>
     <description>Recent content in Categories on AlanYin</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>alanyin6@gmail.com (AlanYin)</managingEditor>
     <webMaster>alanyin6@gmail.com (AlanYin)</webMaster>
-    <atom:link href="http://localhost:56587/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xing-yin.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

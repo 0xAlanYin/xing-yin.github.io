@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on AlanYin</title>
-    <link>http://localhost:56587/page/</link>
+    <link>https://xing-yin.github.io/page/</link>
     <description>Recent content in Pages on AlanYin</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>alanyin6@gmail.com (AlanYin)</managingEditor>
     <webMaster>alanyin6@gmail.com (AlanYin)</webMaster>
-    <atom:link href="http://localhost:56587/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xing-yin.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>http://localhost:56587/page/about/</link>
+      <link>https://xing-yin.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>alanyin6@gmail.com (AlanYin)</author>
-      <guid>http://localhost:56587/page/about/</guid>
+      <guid>https://xing-yin.github.io/page/about/</guid>
       <description>About AlanYin If you refresh yourself each day, every day seems new.&#xA;Hey, I&amp;rsquo;m AlanYin,a programmer who loves to explore new things.&#xA;Aside from work and study, I&amp;rsquo;m also an avid reader and enjoy outdoor activities.&#xA;I consider myself fortunate to be born in this era of information and to have chosen a profession I love. Living in this opportune time, my goal is to continually grow, keep pace with the times.</description>
     </item>
   </channel>
