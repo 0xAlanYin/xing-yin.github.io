@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Beautiful Hugo</title>
-    <link>https://xing-yin.github.io/tags/</link>
-    <description>Recent content in Tags on Beautiful Hugo</description>
+    <title>Tags on AlanYin</title>
+    <link>http://localhost:56587/tags/</link>
+    <description>Recent content in Tags on AlanYin</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <managingEditor>alanyin6@gmail.com (AlanYin)</managingEditor>
+    <webMaster>alanyin6@gmail.com (AlanYin)</webMaster>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://xing-yin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56587/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>https://xing-yin.github.io/tags/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://xing-yin.github.io/tags/example/</guid>
+      <link>http://localhost:56587/tags/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>alanyin6@gmail.com (AlanYin)</author>
+      <guid>http://localhost:56587/tags/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Photoswipe</title>
-      <link>https://xing-yin.github.io/tags/photoswipe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://xing-yin.github.io/tags/photoswipe/</guid>
+      <link>http://localhost:56587/tags/photoswipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>alanyin6@gmail.com (AlanYin)</author>
+      <guid>http://localhost:56587/tags/photoswipe/</guid>
       <description></description>
     </item>
     <item>
       <title>Bigimg</title>
-      <link>https://xing-yin.github.io/tags/bigimg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://xing-yin.github.io/tags/bigimg/</guid>
+      <link>http://localhost:56587/tags/bigimg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>alanyin6@gmail.com (AlanYin)</author>
+      <guid>http://localhost:56587/tags/bigimg/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>https://xing-yin.github.io/tags/math/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://xing-yin.github.io/tags/math/</guid>
+      <link>http://localhost:56587/tags/math/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>alanyin6@gmail.com (AlanYin)</author>
+      <guid>http://localhost:56587/tags/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>https://xing-yin.github.io/tags/code/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://xing-yin.github.io/tags/code/</guid>
+      <link>http://localhost:56587/tags/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>alanyin6@gmail.com (AlanYin)</author>
+      <guid>http://localhost:56587/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://xing-yin.github.io/tags/markdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://xing-yin.github.io/tags/markdown/</guid>
+      <link>http://localhost:56587/tags/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>alanyin6@gmail.com (AlanYin)</author>
+      <guid>http://localhost:56587/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>
